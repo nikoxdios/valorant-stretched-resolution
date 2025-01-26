@@ -34,5 +34,5 @@ If you encounter any issues:
 Contributions are welcome! Feel free to fork this repository and submit a pull request with your improvements.
 
 ## License
-This project is licensed under the GNU Public License v3.0. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the GNU General Public License v3.0. See the [LICENSE](LICENSE) file for details.
 
