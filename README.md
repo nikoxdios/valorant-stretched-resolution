@@ -1,6 +1,5 @@
 Sure! Here’s the text in a markdown format that you can directly copy and paste into your GitHub repository:
 
-```markdown
 # valorant-stretched-resolution
 
 A Python tool to enable stretched resolution in Valorant via command line.
