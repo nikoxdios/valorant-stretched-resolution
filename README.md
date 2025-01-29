@@ -13,7 +13,7 @@ A Python tool to enable stretched resolution in Valorant via command line.
 - A Windows-based PC.
 - A monitor and GPU that support custom resolutions.
 - Python 3.6+ installed on your system.
-
+- Git installed on your system.
 ## Installation
 
 ### Option 1: Install via pip
